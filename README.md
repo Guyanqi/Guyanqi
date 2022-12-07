@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Guyanqi
 - 👀 I’m interested in Cryptography
-- 🌱 I’m currently working on a lot of cool stuffs
-- 💞️ I’m looking to collaborate on developing libraries and applications on Homomorphic Encryption, Privacy-Preserving Machine Learning
+- 🌱 I’m currently working on a lot of cool stuff  
 - 📫 How to reach me : please check my homepage
 
 <!---
