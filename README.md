@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Guyanqi
-- 👀 I’m interested in Applied Cryptography
-- 🌱 I’m currently working on a lot of cool stuff  
 - 📫 How to reach me : please check my homepage
 
 <!---
